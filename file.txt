@@ -1,2 +1,2 @@
-The fox jumped over the fence. This is extra words. I am adding some text before the fox. The fox jumped over the fence.
+The cat jumped over the fence and the fox watched. This is extra words. I am adding some text before the fox. The fox jumped over the fence.
 This line was added through GitHub web
