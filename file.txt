@@ -1,2 +1,2 @@
-The fox jumped over the fence.
+I am adding some text before the fox. The fox jumped over the fence.
 This line was added through GitHub web
