@@ -1,1 +1,3 @@
 The cat, dog, and fox all jumped over the fence. The fence broke.
+
+The squirrel, mouse, and frog all leaped over the fence. The fence didn't break.
